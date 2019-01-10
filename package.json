@@ -1,0 +1,12 @@
+{
+  "name": "ramda-dependency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
